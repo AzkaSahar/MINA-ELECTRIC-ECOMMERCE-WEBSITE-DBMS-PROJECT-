@@ -2,8 +2,16 @@
 
 ## Project Overview
 
-This project is an e-commerce web application developed for Mina Electric, a wholesaling business located in Karachi Electric Market, running since 1985. The application provides a modern, responsive platform for customers to browse products, view details, and place orders online. It is designed to manage product inventory, customer orders, and other related functionalities effectively.
+This project is an e-commerce web application developed for Mina Electric, a wholesaling business located in Karachi Electric Market, running since 1985. The application provides a modern, responsive platform for customers to browse products, view details, and place orders online. It is designed to manage product inventory, customer orders, and other related functionalities effectively.  
 
+---
+## Group Members
+
+1. Azka Sahar Shaikh  
+2. Muhammad Sudais Katiya  
+3. Sumaiya Waheed
+
+---
 ## Features
 
 ### Functional Requirements
